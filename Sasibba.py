@@ -86,7 +86,7 @@ def tech_abm():
     if username =="Real":
         os.system("clear")
         print logo
-        print ("[+] Username :sasiya (Correct)")
+        print ("[+] Username :(Correct)")
         passwordss = raw_input("\033[1;97m[+]\033[1;97m Password :\033[1;97m ")
         if passwordss =="bba":
             os.system("clear")
