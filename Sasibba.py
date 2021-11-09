@@ -68,9 +68,9 @@ logo = """
 \033[1;97m       @@@•••••••••••••••••••••••••@@@ \033[1;0m
 \033[1;97m      @@@•••••••••••••••••••••••••@@@ \033[1;0m
 \033[1;97m--------------------------------------------------
-\033[1;93m➤\033[1;97m Author   : Mr.Real-sasiya
-\033[1;93m➤\033[1;97m Github   : https://github.com/sasibba
-\033[1;93m➤\033[1;97m Fb Id      : https://www.facebook.com/profile.php?id=100065977826365
+\033[1;93m➤\033[1;97m Author   : black-hackr-sasiya
+\033[1;93m➤\033[1;97m Github   : A secret|Sasiya|github
+\033[1;93m➤\033[1;97m Fb Id      : https://www.facebook.com/sasindu.hacke
 \033[1;97m--------------------------------------------------
 """
 
@@ -86,9 +86,9 @@ def tech_abm():
     if username =="Real":
         os.system("clear")
         print logo
-        print ("[+] Username : Real (Correct)")
+        print ("[+] Username :sasiya (Correct)")
         passwordss = raw_input("\033[1;97m[+]\033[1;97m Password :\033[1;97m ")
-        if passwordss =="Ishiya":
+        if passwordss =="bba":
             os.system("clear")
             print logo
             logging()
