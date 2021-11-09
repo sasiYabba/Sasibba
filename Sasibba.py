@@ -1,7 +1,7 @@
 # coding=utf-8
 #!/usr/bin/python
 # coding=utf-8
-# coded by : Mr.Real-Sasibba
+# coded by :Black hacker sasiya
 try:
     import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib,requests
     from multiprocessing.pool import ThreadPool
@@ -61,15 +61,15 @@ def logout():
 logo = """
 \033[1;97m             @@@•••••••••••••••••••••••••@@@ \033[1;0m
 \033[1;97m            @@@•••••••••••••••••••••••••@@@ \033[1;0m
-\033[1;97m           @@@••••••••••MR•••••••••••••@@@ \033[1;0m
-\033[1;97m          @@@•••••••REAL••••••@@@ \033[1;0m
-\033[1;97m         @@@••••••sasiya•••••••@@@ \033[1;0m
+\033[1;97m           @@@••••••••••sasi•••••••••••••@@@ \033[1;0m
+\033[1;97m          @@@••••••••••••@@@ \033[1;0m
+\033[1;97m         @@@••••••BLACK HaCkr sasiya•••••••@@@ \033[1;0m
 \033[1;97m        @@@•••••••••••••••••••••••••@@@ \033[1;0m
 \033[1;97m       @@@•••••••••••••••••••••••••@@@ \033[1;0m
 \033[1;97m      @@@•••••••••••••••••••••••••@@@ \033[1;0m
 \033[1;97m--------------------------------------------------
-\033[1;93m➤\033[1;97m Author   : black-hackr-sasiya
-\033[1;93m➤\033[1;97m Github   : A secret|Sasiya|github
+\033[1;93m➤\033[1;97m Author   : Black-hacker-sasiya
+\033[1;93m➤\033[1;97m Github   : A secret!
 \033[1;93m➤\033[1;97m Fb Id      : https://www.facebook.com/sasindu.hacke
 \033[1;97m--------------------------------------------------
 """
@@ -83,12 +83,12 @@ def tech_abm():
     print('')
     print("\033[1;97m--------------------------------------------------")
     username = raw_input("\033[1;97m[+]\033[1;97m Username :\033[1;97m ")
-    if username =="Real":
+    if username =="sasiya":
         os.system("clear")
         print logo
-        print ("[+] Username :sasiya
+        print ("[+] Username : Real (Correct)")
         passwordss = raw_input("\033[1;97m[+]\033[1;97m Password :\033[1;97m ")
-        if passwordss =="bba":
+        if passwordss =="Ishiya":
             os.system("clear")
             print logo
             logging()
